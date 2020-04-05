@@ -6,6 +6,11 @@ body { background: #0f0f0f;
 p.info{
   font-family: 'cwTeXHei', serif;
 }
+p.bold{
+  font-family: 'cwTeXHei', serif;
+  font-weight:bold;
+  color:black;
+}
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
